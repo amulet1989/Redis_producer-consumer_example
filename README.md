@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Redis_producer-consumer_example
-You can see this code example to understand how to use Redis message queue and hash table to communicate two services.
-=======
 # Redis Producer/Consumer example
 
 You can see this code example to understand how to use Redis message queue and hash table to communicate two services.
@@ -48,4 +44,3 @@ $ jupyter notebook
 ```
 
 Now go to your browser and start playing with the Consumer/Producer notebooks.
->>>>>>> master
